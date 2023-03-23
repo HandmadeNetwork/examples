@@ -34,6 +34,7 @@
 | N/A             | x64 codegen                       | https://gist.github.com/pervognsen/9d815016d8ef39f1b2c8e509ee2cf052 |
 | Linux           | Minimal Forth                     | https://github.com/nornagon/jonesforth/blob/master/jonesforth.S     |
 | Linux           | Minimal Token-threaded Forth      | https://github.com/kragen/tokthr/blob/master/tokthr.S               |
+| N/A             | Minimal COFF Generator            | https://gist.github.com/RealNeGate/428a274496ce9852e06f9db1852b6cc2 |
 
 ## Misc
 | Platform        | Name                              | Link                                                                |
@@ -46,3 +47,5 @@
 |---------------------------|----------------------------------------------------------------|
 | Binary Formats Visualized | https://github.com/corkami/pics/blob/master/binary/README.md   |
 | Tiny ELF Binaries         | https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html |
+| Making portable binaries  | https://justine.lol/ape.html                                   |
+| Bootstrapping from Octal  | https://dercuano.github.io/notes/forth-assembling.html         |
