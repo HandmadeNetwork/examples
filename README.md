@@ -37,12 +37,6 @@
 | N/A             | Minimal COFF Generator            | https://gist.github.com/RealNeGate/428a274496ce9852e06f9db1852b6cc2 |
 | N/A             | Building a Compiler               | https://compilers.iecc.com/crenshaw/                                |
 
-## Misc
-| Platform        | Name                              | Link                                                                |
-|-----------------|-----------------------------------|---------------------------------------------------------------------|
-| N/A             | A* Pathfinding                    | https://gist.github.com/mmozeiko/68f0a8459ef2f98bcd879158011cc275   |
-| Windows / Linux | Get RDTSC Frequency               | https://gist.github.com/pmttavara/6f06fc5c7679c07375483b06bb77430c  |
-
 ## Bootstrapping
 | Name                             | Links                                                          |
 |----------------------------------|----------------------------------------------------------------|
@@ -50,6 +44,12 @@
 | Lisp in the Boot Sector          | https://justine.lol/sectorlisp2/                               |
 | Booting from UEFI                | https://git.mr4th.com/Mr4th/lil_uefi/src/branch/master         |
 | Bootstrapping from a Hex Monitor | https://github.com/oriansj/stage0                              |
+
+## Misc
+| Platform        | Name                              | Link                                                                |
+|-----------------|-----------------------------------|---------------------------------------------------------------------|
+| N/A             | A* Pathfinding                    | https://gist.github.com/mmozeiko/68f0a8459ef2f98bcd879158011cc275   |
+| Windows / Linux | Get RDTSC Frequency               | https://gist.github.com/pmttavara/6f06fc5c7679c07375483b06bb77430c  |
 
 ## Handy Resources
 | Name                      | Links                                                          |
