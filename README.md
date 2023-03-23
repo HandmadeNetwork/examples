@@ -42,10 +42,16 @@
 | N/A             | A* Pathfinding                    | https://gist.github.com/mmozeiko/68f0a8459ef2f98bcd879158011cc275   |
 | Windows / Linux | Get RDTSC Frequency               | https://gist.github.com/pmttavara/6f06fc5c7679c07375483b06bb77430c  |
 
+## Bootstrapping
+| Name                         | Links                                                          |
+|------------------------------|----------------------------------------------------------------|
+| Simple Assembler from Octal  | https://dercuano.github.io/notes/forth-assembling.html         |
+| Lisp in the Boot Sector      | https://justine.lol/sectorlisp2/                               |
+| Booting from UEFI            | https://git.mr4th.com/Mr4th/lil_uefi/src/branch/master         |
+
 ## Handy Resources
 | Name                      | Links                                                          |
 |---------------------------|----------------------------------------------------------------|
 | Binary Formats Visualized | https://github.com/corkami/pics/blob/master/binary/README.md   |
 | Tiny ELF Binaries         | https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html |
 | Making portable binaries  | https://justine.lol/ape.html                                   |
-| Bootstrapping from Octal  | https://dercuano.github.io/notes/forth-assembling.html         |
