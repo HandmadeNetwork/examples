@@ -39,3 +39,9 @@
 |-----------------|-----------------------------------|---------------------------------------------------------------------|
 | N/A             | A* Pathfinding                    | https://gist.github.com/mmozeiko/68f0a8459ef2f98bcd879158011cc275   |
 | Windows / Linux | Get RDTSC Frequency               | https://gist.github.com/pmttavara/6f06fc5c7679c07375483b06bb77430c  |
+
+## Handy Resources for Minimal Code
+| Links                                                          |
+|----------------------------------------------------------------|
+| https://github.com/corkami/pics/blob/master/binary/README.md   |
+| https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html |
